@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogushanakin&label=Profile%20views&color=0e75b6&style=flat" alt="ogushanakin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogushanakin" alt="ogushanakin" /></a> </p>
-
 - 🔭 I’m currently working on [UberApp](https://github.com/Ogushanakin/UberApp)
 
 - 🌱 I’m currently learning **Swift**
