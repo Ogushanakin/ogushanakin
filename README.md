@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ogushanakin?tab=repositories](https://github.com/Ogushanakin?tab=repositories)
 
-- 📫 How to reach me **ogzhnakn96@gmail.com**
+- 📫 How to reach me **oguzhan@neonapps.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
