@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing **AI based applications**
 
-- 👨‍💻 [Spark AI: Text to Video]([https://github.com/Ogushanakin?tab=repositories](https://apps.apple.com/do/developer/oguzhan-akin/id1728841096))
+- 👨‍💻 [Spark AI: Text to Video]([Spark AI: Text to Video](https://apps.apple.com/do/developer/oguzhan-akin/id1728841096))
 
 - 📫 How to reach me **oguzhan@neonapps.co**
 
