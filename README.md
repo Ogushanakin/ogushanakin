@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently developing **AI based applications**
 
-- 📲 ([Spark AI: Text to Video](https://apps.apple.com/pw/app/spark-ai-video-generator/id6499469510))  ([BlueQuest: Bluetooth Finder](https://apps.apple.com/pw/app/bluequest-bluetooth-finder/id6705135556))
+- 📲 ([App Store]([https://apps.apple.com/pw/app/spark-ai-video-generator/id6499469510](https://apps.apple.com/tr/developer/oguzhan-akin/id1728841096)))
 
 - 📫 How to reach me **oguzhan@neonapps.co**
 
