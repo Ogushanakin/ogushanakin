@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently developing **AI based applications**
 
-- 📲 ([App Store]([https://apps.apple.com/pw/app/spark-ai-video-generator/id6499469510](https://apps.apple.com/tr/developer/oguzhan-akin/id1728841096)
+- 📲 ([App Store] (https://apps.apple.com/tr/developer/oguzhan-akin/id1728841096))
 
 - 📫 How to reach me **ogzhnakn96@gmail.com**
 
